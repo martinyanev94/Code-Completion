@@ -18,3 +18,4 @@ class Point():
     def distance(self, p):
         diff = self - p
         return sqrt(diff.x ** 2 + diff.y ** 2)
+#
